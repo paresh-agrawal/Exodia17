@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "88313775486",
+    "firebase_url": "https://exodia-2.firebaseio.com",
+    "project_id": "exodia-2",
+    "storage_bucket": "exodia-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88313775486:android:647d05126ba3dbba",
+        "android_client_info": {
+          "package_name": "com.example.admin.exodia2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88313775486-memi0telt0t9gukfjukk1oshosmrblhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtSAYUyynWD_Dm1oAHoVhS5bhpFFVP7TE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

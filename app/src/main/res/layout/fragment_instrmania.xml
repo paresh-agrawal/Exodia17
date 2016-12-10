@@ -1,0 +1,45 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.exodia2.Instrmania"
+    android:background="@color/grey">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="8dp"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="180dp"
+                android:background="@drawable/instrumania2"
+                android:id="@+id/instrumaniadesc"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginLeft="9dp"
+                android:layout_marginRight="9dp"
+                android:layout_marginTop="80dp"
+                android:shadowColor="#000"
+                android:scaleX="2"
+                android:scaleY="2"
+                android:text="Schedule\n\n\n\n\n"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:paddingLeft="10dp"
+                android:background="#fff" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
